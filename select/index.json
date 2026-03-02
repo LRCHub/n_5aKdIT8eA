@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "生きて生きて",
+  "base_artist": "サンボマスター",
+  "createdAt": "2026-03-02T17:38:42.777421Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "生きて生きて",
+      "artist": "Vivid Undress",
+      "has_synced": true,
+      "path": "select/01_生きて生きて_Vivid_Undress.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "生きて生きて",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_01_生きて生きて_サンボマスター.txt"
+    }
+  ]
+}
